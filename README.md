@@ -1,0 +1,2 @@
+# earndogecoin
+script earn dogecoin
